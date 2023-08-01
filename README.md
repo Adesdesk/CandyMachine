@@ -33,13 +33,13 @@ adding content...
 ## Help
 
 * Ensure to have the following installed on your computer
-```
+
 [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 [ts-node](https://www.npmjs.com/package/ts-node#installation)
 [solana cli](https://docs.solana.com/cli/install-solana-cli-tools)
 [sugar cli](https://docs.metaplex.com/developer-tools/sugar/overview/installation#recommended-installation-method)
-```
+
 
 ## Author(s)
 
