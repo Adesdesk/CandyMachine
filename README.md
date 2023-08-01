@@ -34,11 +34,17 @@ adding content...
 
 * Ensure to have the following installed on your computer
 
-[git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-[yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
-[ts-node](https://www.npmjs.com/package/ts-node#installation)
-[solana cli](https://docs.solana.com/cli/install-solana-cli-tools)
-[sugar cli](https://docs.metaplex.com/developer-tools/sugar/overview/installation#recommended-installation-method)
+* [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - to clone this project
+
+* [node](https://nodejs.org/en/download/) - Javascript runtime environment
+
+* [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) - package manager for installing the required dependencies
+
+* [ts-node](https://www.npmjs.com/package/ts-node#installation) - Typescript execution environment
+
+* [solana cli](https://docs.solana.com/cli/install-solana-cli-tools) - to interact with the Solana Blockchain
+
+* [sugar cli](https://docs.metaplex.com/developer-tools/sugar/overview/installation#recommended-installation-method) - to setup and operate the Candy Machine
 
 
 ## Author(s)
