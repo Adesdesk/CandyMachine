@@ -59,3 +59,9 @@ Email: adesdesk@outlook.com
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
+
+### SPL token mint details - 08/03/2023
+mint tx: 35Vuqbwg7DHrF1cWKWqpimkgqSSrJMazx8jST1K8oMCQmwF8cNkZDzdLDQa6YNd9MEatmq6hH5QJrSKg7G7bHnCL
+transfer tx: 4JL7r9PsnxP27cbsD6dshyHY92A6wjvBBR46dXaJjp5StHor2ZPZzri5NNJrTpZZhEy76uucvEhYL3yvocqsU6dN
