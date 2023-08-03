@@ -230,3 +230,7 @@ There are great tools that can make generative art for you. One of the open sour
   }
 }
 ```
+
+
+##### See my candy machine at:
+  -> https://www.solaneyes.com/address/Gf7GBR5WdLNsAWgQNHkMRa5Get7LyR1hYeSTG3D27VoE?cluster=devnet
