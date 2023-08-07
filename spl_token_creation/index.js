@@ -8,6 +8,7 @@ import { createMint, getOrCreateAssociatedTokenAccount, mintTo, transfer } from 
     const fromWallet = Keypair.generate();
     const toWallet = Keypair.generate();
 
+
     // Get the public and private keys of the toWallet for use as minter in Phantom wallet
     const minterPublicKey = toWallet.publicKey.toBase58();
     // Convert the private key to a hexadecimal string
@@ -16,6 +17,7 @@ import { createMint, getOrCreateAssociatedTokenAccount, mintTo, transfer } from 
     console.log('Public Key:', minterPublicKey);
     console.log('Private Key (Hex):', privateKeyHex);
 
+    
     // Step 2: Airdrop SOL into your from wallet
     const fromAirdropSignature = await connection.requestAirdrop(fromWallet.publicKey, LAMPORTS_PER_SOL);
     // Wait for airdrop confirmation
