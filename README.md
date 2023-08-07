@@ -4,7 +4,7 @@ Solana: Minting Tokens and NFTs
 
 ## Description
 
-Creating a Candy Machine UI for a deployed Candy Machine NFT Contract used for minting and enabling users to pay in a custom created SPL token to pay for the mint!
+Creating a Candy Machine UI for a deployed Candy Machine NFT Collection contract used for minting and enabling users to pay in a custom created SPL for the mint!
 ## Getting Started
 
 Open your favorite terminal and change the current working directory to the location where you want this repository to be cloned.
@@ -17,22 +17,28 @@ git colne https://github.com/Adesdesk/CandyMachine.git
 ### Installing
 
 * Change the current working directory to the folder of this cloned project in your computer
-* Run the following command to install required dependencies
+* Navigate further into the 'spl-token-creation' folder
+* Run the following commands in the same order so as to install required dependencies and note the generated output
 
 ```
 yarn install
+node index.js
 ```
+* This process will help you mint your SPL token which can be used to configure the candy machine NFT minting components to receive payments in your designated tokens. 
 
 ### Executing program
 
-* Once done, run the following commands in the same order...
-```
-adding content...
-```
+* Click [here](https://www.quicknode.com/guides/solana-development/nfts/how-to-deploy-an-nft-collection-on-solana-using-sugar-candy-machine#set-up-a-minting-site) to continue the process of understanding and creating your candy machine as well as integrating a frontend through which users can mint using a browser.
+
+* Alternatively, click [here](https://candy-machine-git-main-adesdesk.vercel.app/) to simply launch my version of the project in your browser. 
+
+* Kindly note that you will only be able to mint on this version if you have some of my custom SPL token available as balance in your connected wallet.
+
+* You will have to create your version and configure its payment receipts as desired  if you wish to mint NFTs using your own tokens. 
 
 ## Help
 
-* Ensure to have the following installed on your computer
+* Ensure to have the following installed on your computer before proceeding with replicating this project
 
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - to clone this project
 
@@ -55,13 +61,9 @@ Name: Adeola David Adelakun
 
 Email: adesdesk@outlook.com
 
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-
-
-### SPL token mint details - 08/03/2023
+### SPL token mint signature
 mint tx: 35Vuqbwg7DHrF1cWKWqpimkgqSSrJMazx8jST1K8oMCQmwF8cNkZDzdLDQa6YNd9MEatmq6hH5QJrSKg7G7bHnCL
-transfer tx: 4JL7r9PsnxP27cbsD6dshyHY92A6wjvBBR46dXaJjp5StHor2ZPZzri5NNJrTpZZhEy76uucvEhYL3yvocqsU6dN
