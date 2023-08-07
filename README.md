@@ -5,6 +5,13 @@ Solana: Minting Tokens and NFTs
 ## Description
 
 Creating a Candy Machine UI for a deployed Candy Machine NFT Collection contract used for minting and enabling users to pay in a custom created SPL for the mint!
+
+Starter folders and files for the respective components of this project were cloned from the following sources
+
+* spl_token_creation - [here](https://github.com/Metacrafters/Module2-create-spl-token-js)
+* adesdesk-candy-machine - [here](github.com/Metacrafters/Module3-Candymachine)
+* adesdesk-candy-machine-ui - [here](https://www.quicknode.com/guides/solana-development/nfts/how-to-deploy-an-nft-collection-on-solana-using-sugar-candy-machine#set-up-a-minting-site)
+
 ## Getting Started
 
 Open your favorite terminal and change the current working directory to the location where you want this repository to be cloned.
